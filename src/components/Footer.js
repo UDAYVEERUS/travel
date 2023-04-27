@@ -6,7 +6,7 @@ import Call from '../images/call.png'
 const Footer = () => {
   return (
     <div>
-        <div class="footer container-fluid">
+        <div class="footer container-fluid" style={{marginTop:"14px", width:"full", overflow:"hidden"}}>
             <div class="container">
             <div class="footer-main row">
               <div class="div-links col-sm">
